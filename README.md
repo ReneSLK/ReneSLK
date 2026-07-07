@@ -10,7 +10,7 @@ I'm building **RigForge**, a React/Vite PC component picker app with real-time c
 
 - **[SLK Technologies Website](https://github.com/ReneSLK/SLKTechnologies)** — a responsive multi-page business site for a solar energy company, built with HTML, CSS, and JavaScript.
 - **[Unisa myModules](https://github.com/ReneSLK/university-app)** — a React app modelling a university learning portal with student and lecturer portals.
-- **RigForge** *(in progress)* — a React/Vite PC part picker with compatibility checks and saved builds.
+- **[QuickChat](https://github.com/ReneSLK/QuickChat)** — a desktop messaging application built in Java that simulates the core functionality of a modern chat platform.
 
 See more of my work on my portfolio: **[reneslk.netlify.app](https://reneslk.netlify.app)**
 
