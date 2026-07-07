@@ -4,8 +4,9 @@ I'm an aspiring front-end and web developer who enjoys building websites and lea
 
 ## What I'm Currently Working On
 
-I'm building **RigForge**, a React/Vite PC component picker app with real-time compatibility checks, a running price total, and the ability to save builds locally. I'm also continuing to strengthen my front-end fundamentals and applying what I learn through practice and real projects.
-I'm building **MobileOS**, A front-end concept of a mobile operating system home screen, built with plain HTML, CSS, and JavaScript. Built as a fun side project to explore UI/UX patterns of mobile operating systems using only core web technologies.
+- I'm building **RigForge**, a React/Vite PC component picker app with real-time compatibility checks, a running price total, and the ability to save builds locally. I'm also continuing to strengthen my front-end fundamentals and applying what I learn through practice and real projects.
+
+- I'm building **MobileOS**, A front-end concept of a mobile operating system home screen, built with plain HTML, CSS, and JavaScript. Built as a fun side project to explore UI/UX patterns of mobile operating systems using only core web technologies.
 
 ## Featured Projects
 
