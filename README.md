@@ -18,7 +18,7 @@ See more of my work on my portfolio: **[reneslk.netlify.app](https://reneslk.net
 
 ## Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,git,java,github,ts,vscode,wordpress&theme=black)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## How to Reach Me
 
